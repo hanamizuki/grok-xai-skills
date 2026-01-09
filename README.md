@@ -21,7 +21,7 @@ This skill gives Claude Code access to the complete xAI API reference documentat
 
 ```bash
 # Clone to your Claude Code skills directory
-git clone https://github.com/user/grok-xai-skills ~/.claude/skills/grok-xai-skills
+git clone https://github.com/hanamizuki/grok-xai-skills ~/.claude/skills/grok-xai-skills
 ```
 
 ### Option 2: Copy the skill folder
